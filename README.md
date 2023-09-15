@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anoeye!</h1>
 <h3 align="center">I'm a small Developer from Germany!</h3>
 
-- 🔭 I’m currently working on [Fl0WeR](https://fl0wer.xyz/)
-
-- 🌱 I’m currently learning **Javascript**
-
-- 👯 Join my [Discord Server](https://discord.gg/agP9wzGnND)
-
-- 👨‍💻 My Website [anoeye.xyz](Anoeye.xyz)
-
-- 📫 How to reach me **contact@anoeye.xyz**
+┏ :clock1: | Born 16 Years ago
+┣ :speaking_head:  | English and German
+┣ :book: | i use Arch Linux btw
+┗ :dna: | Developer since 3 years
+     ┣ :globe_with_meridians: | [anoeye.xyz](Anoeye.xyz)
+     ┗ :man_technologist: | **contact@anoeye.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
