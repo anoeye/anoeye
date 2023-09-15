@@ -7,7 +7,7 @@
 
 - 👯 Join my [Discord Server](https://discord.gg/agP9wzGnND)
 
-- 👨‍💻 My Website [Anoeye.xyz](Anoeye.xyz)
+- 👨‍💻 My Website [anoeye.xyz](Anoeye.xyz)
 
 - 📫 How to reach me **contact@anoeye.xyz**
 
