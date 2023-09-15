@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anoeye!</h1>
 <h3 align="center">I'm a small Developer from Germany!</h3>
 
-┏ :clock1: | Born 16 Years ago
-┣ :speaking_head:  | English and German
-┣ :book: | i use Arch Linux btw
-┗ :dna: | Developer since 3 years
-     ┣ :globe_with_meridians: | [anoeye.xyz](Anoeye.xyz)
-     ┗ :man_technologist: | **contact@anoeye.xyz**
+┏ :clock1: | Born 16 Years ago<br>
+┣ :speaking_head:  | English and German<br>
+┣ :book: | i use Arch Linux btw<br>
+┗ :dna: | Developer since 3 years<br>
+     ┣ :globe_with_meridians: | [anoeye.xyz](Anoeye.xyz)<br>
+     ┗ :man_technologist: | **contact@anoeye.xyz**<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
