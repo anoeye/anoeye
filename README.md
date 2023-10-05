@@ -5,7 +5,7 @@
 ┣ :speaking_head:  | English and German<br>
 ┣ :book: | i use Arch Linux btw<br>
 ┗ :dna: | Developing since 2021<br>
-     ┣ :globe_with_meridians: | [anoeye.xyz](Anoeye.xyz)<br>
+     ┣ :globe_with_meridians: | [https://anoeye.xyz/](Anoeye.xyz)<br>
      ┗ :man_technologist: | **contact@anoeye.xyz**<br>
 
 <h3 align="left">Languages and Tools:</h3>
