@@ -4,7 +4,7 @@
 ┏ :clock1: | Born 16 Years ago<br>
 ┣ :speaking_head:  | English and German<br>
 ┣ :book: | i use Arch Linux btw<br>
-┗ :dna: | Developing since 2021 years<br>
+┗ :dna: | Developing since 2021<br>
      ┣ :globe_with_meridians: | [anoeye.xyz](Anoeye.xyz)<br>
      ┗ :man_technologist: | **contact@anoeye.xyz**<br>
 
