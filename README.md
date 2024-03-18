@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anoeye</h1>
-<h3 align="center">I'm a 16 year old Developer from Germany!</h3>
+<h1 align="center">Hello! I am Anoeye! 👋</h1>
+<h3 align="center">I'm a small 16 year old self learned developer from germany!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
