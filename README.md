@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I am Anoeye! 👋</h1>
 <h2 align="center">I'm a small 16 year old developer from germany!</h2>
 
-<h3>Hello, I'm Anoeye!\n \nI am learning activly to code since 2022.\nAnd it makes fun! I love to learn more things about Computers!\n \nIn my freetime i like to play videogames!\nAnd since beginning 2024 i am testing myself on doing own mods!\nIf you are interrested you can take a look at my (GameBanana Profile)[https://gamebanana.com/members/2997885]</h3>
+<h3>Hello, I'm Anoeye!<br>I am learning activly to code since 2022.<br>And it makes fun! I love to learn more things about Computers!<br><br>In my freetime i like to play videogames!<br>And since beginning 2024 i am testing myself on doing my own mods!<br>If you are interrested you can take a look at my (https://gamebanana.com/members/2997885)[GameBanana Profile]!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
