@@ -1,5 +1,5 @@
-## 👋 Hello there! My name is Anoeye
-I am a 16-year-old aspiring programmer who has been actively learning to code since 2022.
+## 👋 Hello there! My name is Anoeye!
+I am a 16-year-old self taught programmer who has been actively learning to code since 2022.
 
 I am constantly seeking opportunities to expand my knowledge and skills in various programming languages and technologies.
 I enjoy challenging myself with new projects that help me to grow as a developer.
@@ -10,8 +10,8 @@ Feel free to explore my repositories and see the progress I have made in my codi
 If you have any questions, feedback, or just want to connect, feel free to reach out to me.
 
 ## 🤝 Get in Contact
-[My Discord](https://discord.gg/) (Coming Soon!)<br>
+[My Discord](https://discord.gg/agP9wzGnND/)<br>
 [My Website](https://anoeye.xyz/) (Coming Soon!)
 
 ## 👨‍💻 Languages and Skills
-coming sonn
+coming soon
